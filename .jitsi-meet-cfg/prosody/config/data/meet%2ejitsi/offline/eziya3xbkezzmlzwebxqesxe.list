@@ -1,0 +1,26 @@
+item({
+	{
+		"{\"created_timestamp\":1699279256000,\"type\":\"conference_duration\"}";
+		["name"] = "json-message";
+		["attr"] = {
+			["xmlns"] = "http://jitsi.org/jitmeet";
+		};
+	};
+	{
+		["name"] = "delay";
+		["attr"] = {
+			["from"] = "eziya3xbkezzmlzwebxqesxe@meet.jitsi";
+			["stamp"] = "2023-11-06T14:00:56Z";
+			["xmlns"] = "urn:xmpp:delay";
+		};
+	};
+	["with"] = "";
+	["key"] = "oNBxQAvRMXskJ8X_qKGIem6E";
+	["attr"] = {
+		["from"] = "conferenceduration.meet.jitsi";
+		["to"] = "eziya3xbkezzmlzwebxqesxe@meet.jitsi/GQwVT3qoEiPn";
+		["stamp"] = "2023-11-06T14:00:57Z";
+	};
+	["name"] = "message";
+	["when"] = 1699279257;
+});

@@ -1,0 +1,26 @@
+item({
+	{
+		"{\"type\":\"conference_duration\",\"created_timestamp\":1717715995000}";
+		["name"] = "json-message";
+		["attr"] = {
+			["xmlns"] = "http://jitsi.org/jitmeet";
+		};
+	};
+	{
+		["name"] = "delay";
+		["attr"] = {
+			["from"] = "kdpyrtvnpjtd-kkmv1xwvkan@meet.jitsi";
+			["xmlns"] = "urn:xmpp:delay";
+			["stamp"] = "2024-06-06T23:19:55Z";
+		};
+	};
+	["with"] = "";
+	["key"] = "PNGWEcKHwwY5gvFh92IB0XRS";
+	["attr"] = {
+		["from"] = "conferenceduration.meet.jitsi";
+		["stamp"] = "2024-06-06T23:19:55Z";
+		["to"] = "kdpyrtvnpjtd-kkmv1xwvkan@meet.jitsi/KstQdA8DuORT";
+	};
+	["name"] = "message";
+	["when"] = 1717715995;
+});
